@@ -1,0 +1,1 @@
+{"jobID":"1d25f5c4-c01b-f373-b692-77d731a9257b","spec":{"type":"policy","cause":{"Message":"","User":"Rifki \u003crifky_@outlook.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
